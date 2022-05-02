@@ -1,8 +1,12 @@
 ### Hey! I'm Aliaksei :) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kriswhitch/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-e6e6e6?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kriswhitch)
+[![Skype Badge](https://img.shields.io/badge/-Skype-0e76a8?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/G9sl012q7f9B)
 
-### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KriSWhitch.KriSWhitch)
+### Happy to meet you!
+
+![](https://visitor-badge.glitch.me/badge?page_id=KriSWhitch.KriSWhitch)
 
 I'm a software engineering student with a passion for the React + ASP.NET (C#) technology stack and have experience working for an IT company on real projects! 
 
@@ -24,18 +28,3 @@ Education: <br>
 
 Foreign languages: <br>
 🍉 English B2+ <br>
-
-<!--
-**KriSWhitch/KriSWhitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
