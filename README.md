@@ -17,13 +17,13 @@ Work Projects:
 1. Development of a system for sending emergency reports on incidents (client, api, admin). During the project I learned how to create and work with Windows Services, developed video calls using WebRTC technology and Twilio library. Integration with ADP, Immix, OAuth authorization, Google reCaptcha, etc.
 
 My skills: <br>
-🍉 Programming languages: C# (+ ASP .NET Core/MVC), JavaScript + React library <br>
+🍉 Programming languages: C# (+ ASP .NET MVC/Web API), JavaScript + React library <br>
 🍉 Experienced in version control systems <br>
 🍉 Have knowledge of data structures, sorting, OOP, etc. <br>
 🍉 Worked with MS SQL, MySQL, SQLite, PostgreSQL databases <br>
 
 Education: <br>
-🍉 Almost completed higher education (3rd year student) <br>
+🍉 Almost completed higher education (4rd year student) <br>
 🍉 Completed courses and internship at iTechArt on React + .NET stack (C#) <br>
 
 Foreign languages: <br>
