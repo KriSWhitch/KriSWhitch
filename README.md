@@ -25,7 +25,7 @@ Software Engineer
 
 ## Tech Stack: 
 - ASP.NET (C#)
-- React
+- React (Next.js)
 - HTML
 - CSS
 - Git
